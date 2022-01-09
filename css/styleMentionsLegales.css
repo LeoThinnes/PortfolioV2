@@ -1,0 +1,39 @@
+html {
+  font-family: sans-serif;
+  background-color: #dcf7fe;
+}
+h1 {
+  text-align: center;
+}
+
+.text {
+  width: 75%;
+  margin:auto;
+  margin-top: 3%;
+}
+
+.column {
+  margin: auto;
+}
+
+.ligne {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3%;
+}
+
+p {
+  text-align: justify;
+  margin-bottom: 3%;
+}
+
+
+@media screen and (max-width: 1000px) {
+
+.text {
+  width: 90%;
+}
+.ligne {
+  flex-direction: column;
+}
+}
