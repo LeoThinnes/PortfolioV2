@@ -4,3 +4,7 @@ Sur ce site vous pourrez retrouver toutes les informations utiles sur moi, mon C
 </br></br>
 Ce site a été réalisé en HTML/CSS.</br></br>
 portfolio disponible sur [https://leothinnes.com](https://leothinnes.com)
+
+## Un premier apperçu ci dessous : 
+![](/Ressources/Visuel-Portfolio.png)
+![](/Ressources/Visuel-Portfolio2.png)
